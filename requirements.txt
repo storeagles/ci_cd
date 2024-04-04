@@ -1,3 +1,5 @@
 pylint
 pytest
 click
+pyplot
+pylab
